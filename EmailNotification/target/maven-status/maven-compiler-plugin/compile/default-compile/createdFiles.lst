@@ -1,7 +1,0 @@
-com\sfb\schedulerWeblogicDemo\ConfigProperties.class
-com\sfb\schedulerWeblogicDemo\ConnectionFactory.class
-com\sfb\schedulerWeblogicDemo\MyTimerTask.class
-com\sfb\schedulerWeblogicDemo\MyServletContextListener.class
-com\sfb\schedulerWeblogicDemo\SendEmail$1.class
-com\sfb\schedulerWeblogicDemo\Email.class
-com\sfb\schedulerWeblogicDemo\SendEmail.class
